@@ -6,7 +6,7 @@
 
  
 
-   if (($user == "usuario") AND ($password == "12345")) {
+   if (($user == "curytravez") AND ($password == "curytravez1993")) {
 
       echo "Bienvenido ".$user;
 
